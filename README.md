@@ -1,7 +1,7 @@
 Global Archives
 ===============
 
-Global Archives is a Drupal simple, flexible, feature-rich solution for keeping track of historic events or items with location information.
+Global Archives is a simple, flexible, feature-rich solution for keeping track of historic events or items with location information.
 
 Global Archives is a base Drupal installation profile for easy creation of [Timemap.js](http://code.google.com/p/timemap/) enabled projects.
 The package consists of two drush make files that take care of all the project dependecies. It also makes use of the 
@@ -11,6 +11,6 @@ The easiset way to get started is by using [Drush make](http://drupal.org/projec
 
 `drush make https://raw.github.com/zerolab/global_archives/master/global_archives_starter.make global_archives`
 
-Credit:
-Original idea, Sami Ben Gharbia for [Global Voices Advocacy](http://advocacy.globalvoicesonline.org/)
+Credit:  
+Original idea, Sami Ben Gharbia for [Global Voices Advocacy](http://advocacy.globalvoicesonline.org/)  
 Bits and pieces of inspiration taken from [Development Seed](http://developmentseed.org) and Lullabot's [Videola](https://github.com/Lullabot/videola)
