@@ -14,8 +14,13 @@ The easiset way to get started is by using [Drush make](http://drupal.org/projec
 Once the package is generated, copy `sites/default/default.settings.php` to `sites/default/settings.php` and enter your database details. 
 Or, simply follow the Drupal installation instructions and any errors it may throw.
 
+Otherwise, download and extract the archived [installation profile](https://github.com/zerolab/global_archives/raw/profile-full/global_archives_profile-6.x-1.0-alpha1.tar.gz) 
+to DRUPAL_ROOT/profiles/ then follow the usual Drupal installation process.
+
+*Note:* Make sure to select the Global Archives installation profile!
+
 After the installation is complete, go to `/admin/settings/site-information` to change the site name and email address.
 
-Credit:  
+Credit:
 Original idea, Sami Ben Gharbia for [Global Voices Advocacy](http://advocacy.globalvoicesonline.org/)  
 Bits and pieces of inspiration taken from [Development Seed](http://developmentseed.org) and Lullabot's [Videola](https://github.com/Lullabot/videola)
