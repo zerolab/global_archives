@@ -60,6 +60,7 @@ dependencies[] = admin
 dependencies[] = context
 dependencies[] = context_ui
 dependencies[] = date
+dependencies[] = date_popup
 ; dependencies[] = devel
 dependencies[] = diff
 dependencies[] = features
