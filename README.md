@@ -11,6 +11,11 @@ The easiset way to get started is by using [Drush make](http://drupal.org/projec
 
 `drush make https://raw.github.com/zerolab/global_archives/master/global_archives_starter.make global_archives`
 
+Once the package is generated, copy `sites/default/default.settings.php` to `sites/default/settings.php` and enter your database details. 
+Or, simply follow the Drupal installation instructions and any errors it may throw.
+
+After the installation is complete, go to `/admin/settings/site-information` to change the site name and email address.
+
 Credit:  
 Original idea, Sami Ben Gharbia for [Global Voices Advocacy](http://advocacy.globalvoicesonline.org/)  
 Bits and pieces of inspiration taken from [Development Seed](http://developmentseed.org) and Lullabot's [Videola](https://github.com/Lullabot/videola)
