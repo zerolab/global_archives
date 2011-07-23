@@ -9,4 +9,8 @@ The package consists of two drush make files that take care of all the project d
 
 The easiset way to get started is by using [Drush make](http://drupal.org/project/drush_make) and git installed on your machine:
 
-`drush make https://raw.github.com/zerolab/global_archives/master/global_archives_starter.make`
+`drush make https://raw.github.com/zerolab/global_archives/master/global_archives_starter.make global_archives`
+
+Credit:
+Original idea, Sami Ben Gharbia for [Global Voices Advocacy](http://advocacy.globalvoicesonline.org/)
+Bits and pieces of inspiration taken from [Development Seed](http://developmentseed.org) and Lullabot's [Videola](https://github.com/Lullabot/videola)
