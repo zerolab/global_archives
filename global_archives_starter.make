@@ -12,6 +12,6 @@ projects[] = drupal
 ; projects[pressflow][download][type] = file
 ; projects[pressflow][download][url] = "http://launchpad.net/pressflow/6.x/6.22.104/+download/pressflow-6.22.104.tar.gz"
 
-projects[gvo_distro][type] = profile
-projects[gvo_distro][download][type] = git
-projects[gvo_distro][download][url] = "https://github.com/zerolab/global_archives.git"
+projects[global_archives][type] = profile
+projects[global_archives][download][type] = git
+projects[global_archives][download][url] = "https://github.com/zerolab/global_archives.git"
