@@ -55,8 +55,8 @@ dependencies[] = location
 
 ; Other
 dependencies[] = admin
-dependencies[] = comment_notify
-dependencies[] = commentmail
+;dependencies[] = comment_notify
+;dependencies[] = commentmail
 dependencies[] = context
 dependencies[] = context_ui
 dependencies[] = date
@@ -68,7 +68,7 @@ dependencies[] = globalredirect
 ; dependencies[] = logintoboggan
 dependencies[] = pathauto
 dependencies[] = strongarm
-dependencies[] = term_node_count
+;dependencies[] = term_node_count
 dependencies[] = token
 
 ; Custom

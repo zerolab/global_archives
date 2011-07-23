@@ -21,11 +21,17 @@ projects[ctools][subdir] = contrib
 projects[date][version] = 2.7
 projects[date][subdir] = contrib
 
+projects[diff][version] = 2.2
+projects[diff][subdir] = contrib
+
 projects[features][version] = 1.0
 projects[features][subdir] = contrib
 
 projects[filefield][version] = 3.10
 projects[filefield][subdir] = contrib
+
+projects[globalredirect][version] = 1.2
+projects[globalredirect][subdir] = contrib
 
 projects[gmap][version] = 1.1
 projects[gmap][subdir] = contrib
@@ -54,6 +60,9 @@ projects[smartcrop][subdir] = contrib
 projects[strongarm][version] = 2.0
 projects[strongarm][subdir] = contrib
 
+projects[term_node_count][version] = 1.3
+projects[term_node_count][subdir] = contrib
+
 projects[token][version] = 1.16
 projects[token][subdir] = contrib
 
@@ -70,6 +79,9 @@ projects[jquery_update][version] = 2.0-alpha1
 projects[jquery_update][subdir] = contrib
 
 ; Admin
+projects[admin][version] = 2.0
+projects[admin][subdir] = contrib
+
 projects[admin_menu][version] = 1.6
 projects[admin_menu][subdir] = contrib
 
